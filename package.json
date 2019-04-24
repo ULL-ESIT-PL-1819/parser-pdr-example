@@ -1,8 +1,11 @@
 {
   "name": "AnalizadorDPR",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analizador DPR",
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "directories": {
     "test": "tests"
   },
