@@ -7,31 +7,30 @@
     "test": "tests"
   },
   "dependencies": {
-    "body-parser": "*",
-    "ejs": "*",
-    "express": "*",
-    "express-ejs-layouts": "*",
-    "jquery": "*",
-    "underscore": "*",
-    "pug": "*",
-    "node-sass": "*",
-    "chai": "*",
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
     "coffee-middleware": "*",
-    "coffee-script": "*",
-    "connect": "*",
+    "coffeescript": "^1.12.7",
+    "connect": "^3.6.6",
     "connect-coffee-script": "*",
-    "del": "*",
-    "gulp-sass": "*",
-    "mocha": "latest",
-    "node-static": "*",
-    "sinon": "*",
-    "node-sass-middleware": "*"
+    "del": "^4.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "gulp-sass": "^4.0.2",
+    "jquery": "^3.4.0",
+    "mocha": "^6.1.4",
+    "node-sass": "^4.11.0",
+    "node-sass-middleware": "*",
+    "node-static": "^0.7.11",
+    "pug": "^2.0.3",
+    "sinon": "^7.3.2",
+    "underscore": "^1.9.1"
   },
   "engines": {
-    "node": "7.x"
+    "node": "9.x"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/ULL-ESIT-PL-1617/parser-pdr-example"
